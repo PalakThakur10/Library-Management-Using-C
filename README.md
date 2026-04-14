@@ -1,4 +1,4 @@
-# Library-Management-Using-C
+# Library Management System in C
 Library Management System in C using linked list
 #  Library Management System in C
 
